@@ -1,16 +1,18 @@
 # simple-cmake
 dead simple cmake test
 
-ubuntu
+# ubuntu
 
-## build
-cd ~/opencv-lena
+### build
+ 
+cd build
 
-cmake .
+cmake ..
 
 make
 
-## run
+### run
+
 ./DisplayImage lena.jpg
 
-windows
+# windows
